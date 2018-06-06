@@ -1,2 +1,2 @@
-# PowerDTI
-Delaware Department of Technology and Information PowerCLI
+# PowerCLI
+Things I've learned working with PowerCLI
